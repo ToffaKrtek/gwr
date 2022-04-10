@@ -1,0 +1,9 @@
+{
+  "name": "gwr",
+  "outputfilename": "gwr",
+  "wailsjsdir": "./frontend",
+  "author": {
+    "name": "",
+    "email": ""
+  }
+}
